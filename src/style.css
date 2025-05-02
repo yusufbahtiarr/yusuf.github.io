@@ -304,5 +304,10 @@ footer {
   .box-image img {
     height: 510px;
     width: 680px;
+    max-width: 100%;
+    height: auto;
+  }
+  .box-image {
+    max-width: 100%;
   }
 }
