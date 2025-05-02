@@ -310,4 +310,8 @@ footer {
   .box-image {
     max-width: 100%;
   }
+
+  .name, .profession {
+    font-size: 35px;    
+  }
 }
